@@ -1202,7 +1202,7 @@ header {
   border: 1px solid;
   font-weight: 500;
   letter-spacing: 1px;
-  transition: visibility 0.5s ease-in;
+  transition: visibility 0.2s;
   visibility: hidden;
 }
 .section4 .box .addtocart button svg {
